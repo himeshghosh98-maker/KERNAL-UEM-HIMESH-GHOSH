@@ -1,0 +1,37 @@
+{
+  "chat": "event_planning",
+  "description": "College fest organising committee planning venue/sponsors over 2 days.",
+  "notes": "Please review labels by hand before treating metrics as ground truth.",
+  "gaps": [
+    {
+      "gap_type": "unanswered",
+      "message_ids": [4],
+      "note": "Sana asks Kabir to call auditorium today; only vague 'sure, after class' follows in-window (result arrives much later)."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [21],
+      "note": "Sana asks Riya to send sponsor outline by 5pm; Riya replies 'tomorrow is fine' without the outline."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [38],
+      "note": "Sana asks Kabir for both sound quotes today; no quote confirmation follows."
+    },
+    {
+      "gap_type": "clarification",
+      "message_ids": [8],
+      "note": "Sana: 'what do you mean by tight?' — explicit clarification cue."
+    },
+    {
+      "gap_type": "clarification",
+      "message_ids": [32],
+      "note": "Kabir: 'what do you mean never answered?' — explicit clarification cue."
+    },
+    {
+      "gap_type": "unresolved",
+      "message_ids": [3, 4, 11, 12, 13, 15, 16, 17, 18, 30, 31, 33, 41, 42, 43, 44],
+      "note": "Venue choice (rooftop vs auditorium) never closed; heat question unresolved; ends with 'bring heat data'."
+    }
+  ]
+}

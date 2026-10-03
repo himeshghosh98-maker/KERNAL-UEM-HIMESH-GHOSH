@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.0
+scikit-learn>=1.3
+pytest>=7.0
+# Optional (flagged features — app works without them):
+# sentence-transformers>=2.2
+# google-generativeai>=0.5

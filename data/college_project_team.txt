@@ -1,0 +1,53 @@
+[02/03/2026, 09:14:02] Aanya: morning team, standup notes in the shared doc
+[02/03/2026, 09:15:40] Rohan: yo
+[02/03/2026, 09:16:12] Priya: hey all
+[02/03/2026, 09:18:55] Dev: who is taking the frontend tickets today?
+[02/03/2026, 09:20:03] Aanya: @Dev i can do 2 of them, need someone for the checkout bug
+[02/03/2026, 09:21:10] Meera: checkout bug sounds painful
+[02/03/2026, 09:25:44] Dev: can someone send me the figma link for the new dashboard?
+[02/03/2026, 09:31:02] Rohan: btw did anyone finish the redis benchmark from last week?
+[02/03/2026, 09:33:20] Aanya: i thought rohan was doing that
+[02/03/2026, 09:34:01] Rohan: no i was doing the load tests
+[02/03/2026, 09:40:18] Meera: the api rate limit issue keeps happening on staging
+[02/03/2026, 09:41:55] Dev: yeah staging is a mess
+[02/03/2026, 09:45:30] Priya: can we bump the nginx timeout to 60s? the upload keeps dying
+[02/03/2026, 09:52:11] Aanya: @Priya please send the nginx config diff when u can
+[02/03/2026, 10:05:44] Rohan: lunch?
+[02/03/2026, 10:06:02] Meera: sure
+[02/03/2026, 10:06:30] Dev: 12:30
+[02/03/2026, 14:02:15] Aanya: back. who deployed to staging this morning?
+[02/03/2026, 14:10:33] Dev: i think it was the nightly cron, not sure
+[02/03/2026, 14:22:07] Priya: what do you mean "not sure"? we need to know who broke checkout
+[02/03/2026, 14:25:40] Dev: i mean the deploy logs dont show a person, just the service account
+[02/03/2026, 14:40:12] Meera: can you clarify which service account? the old one was decommissioned
+[02/03/2026, 14:55:03] Rohan: sorry for the delay, was in a lecture
+[02/03/2026, 15:01:22] Aanya: @Rohan the redis benchmark is still not done, deadline is friday
+[02/03/2026, 15:12:45] Rohan: oh right. will do it tonight
+[02/03/2026, 15:30:00] Dev: dashboard figma anyone? still waiting on that link
+[02/03/2026, 15:45:18] Priya: sorry totally forgot, sending now
+[02/03/2026, 15:46:02] Priya: https://figma.com/file/dashboard-v2
+[02/03/2026, 15:50:33] Dev: thanks
+[02/03/2026, 16:10:44] Meera: about the rate limit - i think we should move to the new gateway
+[02/03/2026, 16:12:01] Aanya: i disagree, the new gateway has worse latency in ap-south
+[02/03/2026, 16:15:22] Meera: but the old one keeps dropping bursts over 200 rps
+[02/03/2026, 16:20:50] Dev: both suck honestly
+[02/03/2026, 16:40:11] Rohan: did we ever decide on the redis benchmark scope? p50 only or p95 too?
+[02/03/2026, 16:41:30] Aanya: p95 is required, deadline friday
+[02/03/2026, 16:42:00] Rohan: ok
+[02/03/2026, 18:05:12] Meera: night all
+[02/03/2026, 18:06:40] Dev: gn
+[03/03/2026, 09:02:11] Aanya: standup in 10, please update your tickets
+[03/03/2026, 09:15:33] Priya: i moved the checkout bug to in review
+[03/03/2026, 09:20:02] Dev: @Priya can you please send the PR link for checkout?
+[03/03/2026, 09:35:44] Priya: will do after standup
+[03/03/2026, 10:02:19] Meera: nginx timeout bumped to 60s on staging, please verify
+[03/03/2026, 10:15:00] Aanya: verified, uploads work now
+[03/03/2026, 11:30:22] Rohan: redis benchmark numbers attached in the doc
+[03/03/2026, 11:32:01] Aanya: p95 is 12ms, good enough. done with this thread
+[03/03/2026, 12:00:45] Dev: what about the dashboard deploy, who owns that?
+[03/03/2026, 12:10:30] Meera: i guess me? but i need the figma assets first
+[03/03/2026, 12:11:02] Dev: @Meera the figma was shared yesterday
+[03/03/2026, 12:40:18] Meera: oh i missed it, checking now
+[03/03/2026, 15:20:55] Aanya: rate limit topic still open btw
+[03/03/2026, 15:45:10] Meera: we'll evaluate both gateways next sprint
+[03/03/2026, 15:46:00] Aanya: ok noted

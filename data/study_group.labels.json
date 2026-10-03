@@ -1,0 +1,37 @@
+{
+  "chat": "study_group",
+  "description": "Stats midterm study group over 3 days; missing materials, unanswered follow-ups.",
+  "notes": "Please review labels by hand before treating metrics as ground truth.",
+  "gaps": [
+    {
+      "gap_type": "unanswered",
+      "message_ids": [6],
+      "note": "Kunal asks for the practice problem-set PDF; no one actually shares a file."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [9],
+      "note": "Kunal asks where to get the new chapter-7 set; Tanvi only says 'moodle probably'."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [26],
+      "note": "Tanvi asks if anyone requested extra office hours; nobody owns it."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [46],
+      "note": "Tanvi asks if anyone heard back about office hours; Ishaan only says he is still waiting."
+    },
+    {
+      "gap_type": "unresolved",
+      "message_ids": [26, 27, 28, 29, 30, 46, 47, 52],
+      "note": "Office-hours request never confirmed by the TA; topic explicitly 'still unanswered' at the end."
+    },
+    {
+      "gap_type": "unresolved",
+      "message_ids": [31, 32, 33, 34, 35],
+      "note": "Saturday study agenda debated (regression vs doubts) without a written decision until msg 50."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "chat": "college_project_team",
+  "description": "College software-project team over 2 days. Typos, short replies, real gaps embedded.",
+  "notes": "Please review labels by hand before treating metrics as ground truth.",
+  "gaps": [
+    {
+      "gap_type": "unanswered",
+      "message_ids": [7],
+      "note": "Dev asks for figma dashboard link; link only arrives much later (msg 28), outside default window."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [8],
+      "note": "Rohan asks who finished the redis benchmark; discussion drifts, nobody claims it in-window."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [14],
+      "note": "Aanya asks Priya to send the nginx config diff; no diff is ever sent in-chat."
+    },
+    {
+      "gap_type": "unanswered",
+      "message_ids": [41],
+      "note": "Dev asks Priya for checkout PR link; Priya says 'will do' but never posts the link."
+    },
+    {
+      "gap_type": "clarification",
+      "message_ids": [20],
+      "note": "Priya: 'what do you mean not sure?' — explicit clarification cue."
+    },
+    {
+      "gap_type": "clarification",
+      "message_ids": [22],
+      "note": "Meera: 'can you clarify which service account?' — explicit clarification cue."
+    },
+    {
+      "gap_type": "unresolved",
+      "message_ids": [30, 31, 32, 33, 51, 52],
+      "note": "API rate-limit / gateway topic debated but never decided; ends with 'evaluate next sprint'."
+    },
+    {
+      "gap_type": "ignored",
+      "message_ids": [41],
+      "note": "Dev's direct @Priya request for the PR link is never fulfilled — Priya only says 'will do' and the link never appears."
+    }
+  ]
+}

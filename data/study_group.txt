@@ -1,0 +1,53 @@
+[07/03/2026, 19:02:15] Tanvi: study group for monday's stats midterm?
+[07/03/2026, 19:05:40] Ishaan: im in
+[07/03/2026, 19:06:22] Naina: same, library room 3?
+[07/03/2026, 19:08:01] Tanvi: @Ishaan can you please book room 3 for 6pm?
+[07/03/2026, 19:20:33] Ishaan: yes booking now
+[07/03/2026, 19:45:12] Kunal: can someone send me the practice problem set pdf?
+[07/03/2026, 20:00:44] Naina: i think tanvi has it
+[07/03/2026, 20:15:10] Tanvi: i have it but its the old version, chapter 7 changed
+[07/03/2026, 20:16:02] Kunal: where do i get the new one then?
+[07/03/2026, 20:40:33] Tanvi: moodle probably
+[07/03/2026, 21:00:00] Ishaan: room 3 confirmed for monday 6pm
+[07/03/2026, 21:05:22] Naina: thanks
+[07/03/2026, 21:30:11] Kunal: moodle doesnt have chapter 7 either btw
+[07/03/2026, 22:00:40] Tanvi: huh, then we need to ask the ta
+[07/03/2026, 22:15:02] Ishaan: i can email the ta tomorrow
+[07/03/2026, 22:20:33] Naina: please cc me
+[07/03/2026, 22:45:18] Tanvi: gn all
+[07/03/2026, 22:50:00] Kunal: night
+[08/03/2026, 10:10:22] Ishaan: emailed the ta, cc'd naina
+[08/03/2026, 10:30:40] Naina: got it thanks
+[08/03/2026, 11:15:02] Kunal: no reply from ta yet
+[08/03/2026, 12:00:33] Tanvi: he usually replies in 2 days
+[08/03/2026, 14:45:11] Naina: btw whats the plan for chapter 7 if we never get the set?
+[08/03/2026, 15:00:40] Ishaan: we could use the textbook examples
+[08/03/2026, 15:20:02] Kunal: textbook examples are too easy for the exam
+[08/03/2026, 17:30:55] Tanvi: did anyone ask about extra office hours?
+[08/03/2026, 18:00:12] Naina: i thought ishaan was asking the ta about that too
+[08/03/2026, 18:10:33] Ishaan: no i only asked about the pdf
+[08/03/2026, 19:00:00] Kunal: so who is asking about office hours then?
+[08/03/2026, 19:45:22] Tanvi: i will, tomorrow morning
+[08/03/2026, 20:15:40] Naina: also can we decide what to cover saturday? i need to plan my commute
+[08/03/2026, 20:30:02] Ishaan: saturday was supposed to be regression + hypothesis testing
+[08/03/2026, 20:45:11] Kunal: i thought saturday was just a doubt session
+[08/03/2026, 21:00:33] Tanvi: we never actually decided the saturday agenda
+[08/03/2026, 21:20:00] Naina: ok this is getting confusing
+[08/03/2026, 21:35:44] Ishaan: lets do regression first then hypothesis testing
+[08/03/2026, 21:40:02] Kunal: fine by me
+[08/03/2026, 21:45:18] Naina: ok but i still need the chapter 7 set to prep for it
+[08/03/2026, 22:00:00] Tanvi: same, we're blocked on that
+[08/03/2026, 22:30:11] Ishaan: ta still no reply
+[08/03/2026, 22:45:40] Kunal: cool cool, gn
+[08/03/2026, 22:50:02] Tanvi: night
+[09/03/2026, 09:15:33] Ishaan: ta replied! chapter 7 set is on drive folder stats_mst2
+[09/03/2026, 09:20:11] Naina: finally
+[09/03/2026, 09:35:00] Kunal: downloading now
+[09/03/2026, 10:00:22] Tanvi: office hours - did anyone hear back?
+[09/03/2026, 10:15:40] Ishaan: i asked again, waiting
+[09/03/2026, 11:00:02] Naina: can we confirm the saturday agenda in writing somewhere?
+[09/03/2026, 11:10:33] Tanvi: good idea, making a note in the group doc
+[09/03/2026, 11:30:18] Ishaan: regression then hypothesis testing, 2pm library
+[09/03/2026, 11:35:00] Kunal: noted
+[09/03/2026, 14:20:44] Tanvi: office hours still unanswered, i'll follow up after class
+[09/03/2026, 15:00:02] Naina: thanks tanvi
